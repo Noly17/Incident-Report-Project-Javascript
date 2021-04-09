@@ -1,0 +1,17 @@
+This app was developed for Incidents like Accidents, Help, Thypoons.
+
+
+
+For this application to work, you need the "frontida application" which is develop by my friend/co-programmer 
+and also you need the "Central Application" which is develop by me.
+
+
+The Frontida App is the one who's sending help or sending data to Central Application then this app will check if the incident 
+is troll or it's legit. After the checking the incident, the Central Applicaiton will then mark it spam or forward it to the Last application
+which is the Incident Report.
+
+-You can check the data flow.png
+
+
+
+
